@@ -1,0 +1,42 @@
+.header{
+    display: flex; justify-content: center;
+     background-color: aqua;
+     width: 50rem;
+}
+.container{
+    background-color: beige;
+    width: 50rem;
+    height: 50rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calculator{
+    background-color: black;
+    padding: 50px;
+    border-radius: 10px;
+}
+.calculator form input{
+    border: 0;
+    outline: 0;
+    width: 60px;
+    height: 50px;
+    border-radius: 12px;
+    margin: 5px;
+    cursor: pointer;
+}
+form .display{
+    display: flex;
+    justify-content: flex-end;
+    margin: 23px 0;
+
+}
+form .display input{
+    text-align: right;
+    flex: 1;
+    font-size: x-large;
+    height: 100px;
+} 
+#id1{
+    width: 135px;
+}

@@ -1,0 +1,81 @@
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+
+}
+
+
+.container{
+height:35rem;
+width: 30rem;
+background-color: beige;
+border: 1px solid purple;
+box-sizing: border-box;
+display: flex;
+flex-wrap: wrap;
+justify-content: start;
+align-items: center;
+
+} 
+
+
+.title{  
+    width: 25rem;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+
+}
+s
+.fname{
+
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    height: 4rem;
+    width: 10rem;
+
+}
+
+#id1{
+    height:2rem ;
+    width: 25rem;
+   
+}
+#id2{
+    
+    height:2rem ;
+    width: 25rem;
+}
+
+
+.email{
+    height:1rem ;
+
+    
+}
+#id3{
+    height: 2rem;
+    width: 25rem;
+}
+
+#id4{
+    
+    width: 6rem;
+}
+#id5{
+    height:3rem ;
+}
+.pass{
+    margin-top: 0rem;
+}
+#id6{
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    width: 25rem;
+    height: 3rem;
+    border-radius: 16px;}
